@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375408055020",
+    "project_id": "equipos-8d07a",
+    "storage_bucket": "equipos-8d07a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375408055020:android:01b8322a71df0b6c440bc9",
+        "android_client_info": {
+          "package_name": "com.example.equipos_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375408055020-jjrko1gcrd0gtsn02aqgg5gjto5ssqp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN6a-BmKlo26BnhgumLxrPAagTTu20Wes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375408055020-jjrko1gcrd0gtsn02aqgg5gjto5ssqp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
